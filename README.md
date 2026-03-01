@@ -1,7 +1,4 @@
 # 🐍 PR. 4 — Functional Treat
-### 📊 Data Analyzer & Transformer Program
-
-> 🎓 *Red & White Skill Education — "Quality is our Motto."*
 
 ---
 
@@ -279,4 +276,5 @@ When you're done exploring, option 7 gracefully breaks the `while True` loop and
 ## 👤 Author
 
 Rensee Gajipara Aspiring Python Developer on a mission to master the fundamentals — building the foundation to become unstoppable.
+
 
