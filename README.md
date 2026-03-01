@@ -278,4 +278,5 @@ When you're done exploring, option 7 gracefully breaks the `while True` loop and
 
 ## 👤 Author
 
-Rensee Gajipara
+Rensee Gajipara Aspiring Python Developer on a mission to master the fundamentals — building the foundation to become unstoppable.
+
